@@ -24,6 +24,7 @@ namespace ConsoleApp1
                 
             }
             Console.WriteLine("The ammount of 'A' letters is "+x);
+
            
         }
     }
